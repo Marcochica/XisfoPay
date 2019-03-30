@@ -1,0 +1,15 @@
+/*LOGIN*/
+#app > .navbar-laravel{display:none !important;}
+#app > main{padding-top:0 !important;}
+.login-box-msg{color:#003e9c;font-weight:700;text-align:center;font-size:1.8em;}
+.container_login{box-shadow:0px 0px 14px #919191;border-radius:35px;margin:2% auto !important;}
+#email, #password,#card_resetp #email{border:solid 1px #005ea9;}
+.col-form-label,.form-check-label{color:#005ea9;font-weight:800;}
+.btn-primary{position:relative;margin:auto;display:block !important;padding:3% 33% !important;border-radius:20px !important;border:none !important;background:#003e9c !important;}
+.btn-link{color:#005ea9 !important;margin-top:22px;}
+.cc-picker{border:1px solid #005ea9 !important;border-radius:0;display:block !important;width:100%;height:calc(1.5em + .75rem + 2px);padding:.375rem .75rem;font-size:1rem !important;font-weight:400;line-height:1.5;color:#495057;background-color:#fff;background-clip:padding-box;transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out;}
+#user_register input{border: solid 1px #005ea9;border-radius:0;}
+#user_register label{color:#005ea9;font-weight:800;}
+.btn_register{background:#144294 !important;border-radius:30px !important;padding:2% 20% !important;}
+.group_one{padding-right:0 !important;}
+#card_resetp .btn-primary{padding:2% 16% !important;border-radius:45px !important;margin-top:22px;}
